@@ -1,0 +1,1519 @@
+	Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000000
+Balance: 10000
+
+You have withdrown: [] Tue Nov 15 22:38:43 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000000
+Balance: 9500
+
+You have withdrown: [500] Tue Nov 15 22:38:46 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000000
+Balance: 9100
+
+You have withdrown: [500, 400] Tue Nov 15 22:38:49 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000000
+Balance: 5100
+
+You have withdrown: [500, 400, 4000] Tue Nov 15 22:38:54 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000000
+Balance: 2100
+
+You have withdrown: [500, 400, 4000, 3000] Tue Nov 15 22:38:57 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000000
+Balance: 10000
+
+You have withdrown: [] Tue Nov 15 22:41:23 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000000
+Balance: 9600
+
+You have withdrown: [400] Tue Nov 15 22:41:25 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000002
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 08:25:34 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000005
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 08:25:34 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000006
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 08:25:34 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000007
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 08:25:34 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000004
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 08:27:49 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000005
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 08:27:49 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000006
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 08:27:49 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000007
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 08:27:49 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000004
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 08:28:25 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000005
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 08:28:25 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000006
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 08:28:25 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000007
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 08:28:25 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000004
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 08:29:08 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000005
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 08:29:08 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000006
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 08:29:08 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000007
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 08:29:08 CET 2016
+Account: 
+First name: Sergio
+Last name: Aqulera
+accountNumber: 10000004
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 08:29:56 CET 2016
+Account: 
+First name: Sergio
+Last name: Aqulera
+accountNumber: 10000005
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 08:29:56 CET 2016
+Account: 
+First name: Sergio
+Last name: Aqulera
+accountNumber: 10000006
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 08:29:56 CET 2016
+Account: 
+First name: Sergio
+Last name: Aqulera
+accountNumber: 10000007
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 08:29:56 CET 2016
+Account: 
+First name: Sergio
+Last name: Aqulera
+accountNumber: 10000004
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 08:30:10 CET 2016
+Account: 
+First name: Sergio
+Last name: Aqulera
+accountNumber: 10000005
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 08:30:10 CET 2016
+Account: 
+First name: Sergio
+Last name: Aqulera
+accountNumber: 10000006
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 08:30:10 CET 2016
+Account: 
+First name: Sergio
+Last name: Aqulera
+accountNumber: 10000007
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 08:30:10 CET 2016
+Account: 
+First name: Sergio
+Last name: Aqulera
+accountNumber: 10000004
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 08:33:14 CET 2016
+Account: 
+First name: Sergio
+Last name: Aqulera
+accountNumber: 10000005
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 08:33:14 CET 2016
+Account: 
+First name: Sergio
+Last name: Aqulera
+accountNumber: 10000006
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 08:33:14 CET 2016
+Account: 
+First name: Sergio
+Last name: Aqulera
+accountNumber: 10000007
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 08:33:14 CET 2016
+Account: 
+First name: Sergio
+Last name: Aqulera
+accountNumber: 10000003
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 08:36:38 CET 2016
+Account: 
+First name: Sergio
+Last name: Aqulera
+accountNumber: 10000004
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 08:36:38 CET 2016
+Account: 
+First name: Sergio
+Last name: Aqulera
+accountNumber: 10000005
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 08:36:38 CET 2016
+Account: 
+First name: Sergio
+Last name: Aqulera
+accountNumber: 10000006
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 08:36:38 CET 2016
+Account: 
+First name: Sergio
+Last name: Aqulera
+accountNumber: 10000003
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 08:37:02 CET 2016
+Account: 
+First name: Sergio
+Last name: Aqulera
+accountNumber: 10000004
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 08:37:02 CET 2016
+Account: 
+First name: Sergio
+Last name: Aqulera
+accountNumber: 10000005
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 08:37:02 CET 2016
+Account: 
+First name: Sergio
+Last name: Aqulera
+accountNumber: 10000006
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 08:37:02 CET 2016
+Account: 
+First name: Sergio
+Last name: Aqulera
+accountNumber: 10000003
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 08:37:35 CET 2016
+Account: 
+First name: Sergio
+Last name: Aqulera
+accountNumber: 10000004
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 08:37:35 CET 2016
+Account: 
+First name: Sergio
+Last name: Aqulera
+accountNumber: 10000005
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 08:37:35 CET 2016
+Account: 
+First name: Sergio
+Last name: Aqulera
+accountNumber: 10000006
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 08:37:35 CET 2016
+Account: 
+First name: Sergio
+Last name: Aqulera
+accountNumber: 10000004
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 08:40:32 CET 2016
+Account: 
+First name: Sergio
+Last name: Aqulera
+accountNumber: 10000005
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 08:40:32 CET 2016
+Account: 
+First name: Sergio
+Last name: Aqulera
+accountNumber: 10000006
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 08:40:32 CET 2016
+Account: 
+First name: Sergio
+Last name: Aqulera
+accountNumber: 10000007
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 08:40:32 CET 2016
+Account: 
+First name: Sergio
+Last name: Aqulera
+accountNumber: 10000004
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 08:47:49 CET 2016
+Account: 
+First name: Sergio
+Last name: Aqulera
+accountNumber: 10000005
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 08:47:49 CET 2016
+Account: 
+First name: Sergio
+Last name: Aqulera
+accountNumber: 10000006
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 08:47:49 CET 2016
+Account: 
+First name: Sergio
+Last name: Aqulera
+accountNumber: 10000007
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 08:47:49 CET 2016
+Account: 
+First name: Sergio
+Last name: Aqulera
+accountNumber: 10000004
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 08:48:27 CET 2016
+Account: 
+First name: Sergio
+Last name: Aqulera
+accountNumber: 10000005
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 08:48:27 CET 2016
+Account: 
+First name: Sergio
+Last name: Aqulera
+accountNumber: 10000006
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 08:48:27 CET 2016
+Account: 
+First name: Sergio
+Last name: Aqulera
+accountNumber: 10000007
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 08:48:27 CET 2016
+Account: 
+First name: Sergio
+Last name: Aqulera
+accountNumber: 10000004
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 08:49:14 CET 2016
+Account: 
+First name: Sergio
+Last name: Aqulera
+accountNumber: 10000005
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 08:49:14 CET 2016
+Account: 
+First name: Sergio
+Last name: Aqulera
+accountNumber: 10000006
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 08:49:14 CET 2016
+Account: 
+First name: Sergio
+Last name: Aqulera
+accountNumber: 10000007
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 08:49:14 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000000
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 08:51:22 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000000
+Balance: 9600
+
+You have withdrown: [400] Wed Nov 16 08:51:27 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000000
+Balance: 5600
+
+You have withdrown: [400, 4000] Wed Nov 16 08:51:31 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000000
+Balance: 2600
+
+You have withdrown: [400, 4000, 3000] Wed Nov 16 08:51:32 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000000
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 09:02:43 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000000
+Balance: 9600
+
+You have withdrown: [400] Wed Nov 16 09:02:57 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000000
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 09:04:08 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000000
+Balance: 9500
+
+You have withdrown: [500] Wed Nov 16 09:04:15 CET 2016
+Account: 
+First name: Sergio
+Last name: Aqulera
+accountNumber: 10000004
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 09:10:11 CET 2016
+Account: 
+First name: Sergio
+Last name: Aqulera
+accountNumber: 10000005
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 09:10:11 CET 2016
+Account: 
+First name: Sergio
+Last name: Aqulera
+accountNumber: 10000006
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 09:10:11 CET 2016
+Account: 
+First name: Sergio
+Last name: Aqulera
+accountNumber: 10000007
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 09:10:11 CET 2016
+Account: 
+First name: Sergio
+Last name: Aqulera
+accountNumber: 10000003
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 09:12:09 CET 2016
+Account: 
+First name: Sergio
+Last name: Aqulera
+accountNumber: 10000004
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 09:12:09 CET 2016
+Account: 
+First name: Sergio
+Last name: Aqulera
+accountNumber: 10000005
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 09:12:09 CET 2016
+Account: 
+First name: Sergio
+Last name: Aqulera
+accountNumber: 10000006
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 09:12:09 CET 2016
+Account: 
+First name: Sergio
+Last name: Aqulera
+accountNumber: 10000004
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 09:12:43 CET 2016
+Account: 
+First name: Sergio
+Last name: Aqulera
+accountNumber: 10000005
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 09:12:43 CET 2016
+Account: 
+First name: Sergio
+Last name: Aqulera
+accountNumber: 10000006
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 09:12:43 CET 2016
+Account: 
+First name: Sergio
+Last name: Aqulera
+accountNumber: 10000007
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 09:12:43 CET 2016
+Account: 
+First name: Sergio
+Last name: Aqulera
+accountNumber: 10000004
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 09:15:15 CET 2016
+Account: 
+First name: Sergio
+Last name: Aqulera
+accountNumber: 10000005
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 09:15:15 CET 2016
+Account: 
+First name: Sergio
+Last name: Aqulera
+accountNumber: 10000006
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 09:15:15 CET 2016
+Account: 
+First name: Sergio
+Last name: Aqulera
+accountNumber: 10000007
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 09:15:15 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000004
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 09:18:27 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000005
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 09:18:27 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000006
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 09:18:27 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000007
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 09:18:27 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000004
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 09:41:39 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000005
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 09:41:39 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000006
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 09:41:39 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000007
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 09:41:39 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000005
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 09:50:47 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000006
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 09:50:47 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000007
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 09:50:47 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000005
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 09:51:15 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000006
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 09:51:15 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000007
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 09:51:15 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000005
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 09:57:35 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000006
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 09:57:35 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000007
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 09:57:35 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000004
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 09:58:06 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000005
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 09:58:06 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000006
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 09:58:06 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000007
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 09:58:06 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000005
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 09:58:20 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000006
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 09:58:20 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000007
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 09:58:20 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000005
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 09:58:59 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000006
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 09:58:59 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000000
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 10:01:21 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000000
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 10:01:37 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000000
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 10:03:19 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000005
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 10:04:14 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000006
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 10:04:14 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000007
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 10:04:14 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000004
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 10:07:02 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000005
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 10:07:02 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000006
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 10:07:02 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000007
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 10:07:02 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000004
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 10:08:57 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000005
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 10:08:57 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000006
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 10:08:57 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000007
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 10:08:57 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000003
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 10:09:40 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000004
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 10:09:40 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000005
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 10:09:40 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000006
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 10:09:40 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000003
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 10:10:36 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000004
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 10:10:36 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000005
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 10:10:36 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000006
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 10:10:36 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000003
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 10:11:03 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000004
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 10:11:03 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000005
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 10:11:03 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000006
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 10:11:03 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000003
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 10:12:24 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000005
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 10:12:24 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000006
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 10:12:24 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000003
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 10:13:33 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000005
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 10:13:33 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000006
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 10:13:33 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000003
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 10:14:23 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000005
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 10:14:23 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000006
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 10:14:23 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000003
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 10:31:35 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000005
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 10:31:35 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000006
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 10:31:35 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000003
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 10:32:48 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000004
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 10:32:48 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000005
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 10:32:48 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000006
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 10:32:48 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000003
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 10:34:01 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000004
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 10:34:01 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000005
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 10:34:01 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000006
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 10:34:01 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000003
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 10:43:18 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000004
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 10:43:18 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000005
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 10:43:18 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000006
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 10:43:18 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000003
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 10:44:03 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000004
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 10:44:03 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000005
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 10:44:03 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000006
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 10:44:03 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000003
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 10:48:27 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000004
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 10:48:27 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000005
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 10:48:27 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000006
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 10:48:27 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000000
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 10:49:45 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000000
+Balance: 9500
+
+You have withdrown: [500] Wed Nov 16 10:49:51 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000000
+Balance: 9000
+
+You have withdrown: [500, 500] Wed Nov 16 10:49:56 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000003
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 11:00:49 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000004
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 11:00:49 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000005
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 11:00:49 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000006
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 11:00:49 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000003
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 11:20:55 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000004
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 11:20:55 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000005
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 11:20:55 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000006
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 11:20:55 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000000
+Balance: 10000
+
+You have withdrown: [] Wed Nov 16 11:21:05 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000000
+Balance: 10000
+
+You have withdrown: [] Thu Nov 17 09:07:06 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000000
+Balance: 9500
+
+You have withdrown: [500] Thu Nov 17 09:07:10 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000000
+Balance: 9100
+
+You have withdrown: [500, 400] Thu Nov 17 09:07:13 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000000
+Balance: 8700
+
+You have withdrown: [500, 400, 400] Thu Nov 17 09:07:15 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000003
+Balance: 10000
+
+You have withdrown: [] Thu Nov 17 09:12:57 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000004
+Balance: 10000
+
+You have withdrown: [] Thu Nov 17 09:12:57 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000005
+Balance: 10000
+
+You have withdrown: [] Thu Nov 17 09:12:57 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000000
+Balance: 10000
+
+You have withdrown: [] Thu Nov 17 09:22:43 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000000
+Balance: 9500
+
+You have withdrown: [500] Thu Nov 17 09:22:47 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000000
+Balance: 9200
+
+You have withdrown: [500, 300] Thu Nov 17 09:22:49 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000000
+Balance: 10000
+
+You have withdrown: [] Tue Nov 22 20:56:14 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000000
+Balance: 9500
+
+You have withdrown: [500] Tue Nov 22 20:56:23 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000003
+Balance: 10000
+
+You have withdrown: [] Thu Dec 15 10:25:13 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000004
+Balance: 10000
+
+You have withdrown: [] Thu Dec 15 10:25:13 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000005
+Balance: 10000
+
+You have withdrown: [] Thu Dec 15 10:25:13 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000003
+Balance: 10000
+
+You have withdrown: [] Thu Dec 15 10:44:37 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000004
+Balance: 10000
+
+You have withdrown: [] Thu Dec 15 10:44:37 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000005
+Balance: 10000
+
+You have withdrown: [] Thu Dec 15 10:44:37 CET 2016
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000000
+Balance: 10000
+
+You have withdrown: [] Sat Jan 14 10:03:59 CET 2017
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000000
+Balance: 10000
+
+You have withdrown: [] Sat Jan 14 10:04:06 CET 2017
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000000
+Balance: 9500
+
+You have withdrown: [500] Sat Jan 14 10:04:10 CET 2017
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000000
+Balance: 9000
+
+You have withdrown: [500, 500] Sat Jan 14 10:04:18 CET 2017
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000000
+Balance: 8700
+
+You have withdrown: [500, 500, 300] Sat Jan 14 10:04:27 CET 2017
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000000
+Balance: 10000
+
+You have withdrown: [] Tue Jan 17 10:12:22 CET 2017
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000003
+Balance: 10000
+
+You have withdrown: [] Thu Apr 13 23:32:32 CEST 2017
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000004
+Balance: 10000
+
+You have withdrown: [] Thu Apr 13 23:32:32 CEST 2017
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000005
+Balance: 10000
+
+You have withdrown: [] Thu Apr 13 23:32:32 CEST 2017
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000000
+Balance: 10000
+
+You have withdrown: [] Fri Apr 14 16:48:24 CEST 2017
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000000
+Balance: 9600
+
+You have withdrown: [400] Fri Apr 14 16:48:40 CEST 2017
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000000
+Balance: 10000
+
+You have withdrown: [] Tue Apr 25 23:09:43 CEST 2017
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000000
+Balance: 10000
+
+You have withdrown: [] Fri Jul 07 23:39:34 CEST 2017
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000000
+Balance: 10000
+
+You have withdrown: [] Fri Jul 07 23:39:55 CEST 2017
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000000
+Balance: 10000
+
+You have withdrown: [] Wed Aug 09 11:37:00 CEST 2017
+Account: 
+First name: Erik
+Last name: Eriksson
+accountNumber: 10000000
+Balance: 10000
+
+You have withdrown: [] Wed Aug 09 11:37:28 CEST 2017
